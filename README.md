@@ -53,7 +53,7 @@ sports-api-management/
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/ifeanyiro9/containerized-sports-api.git
+git clone [https://github.com/Lugardesosa/DevOps-Project-Sports-API-Management-System-Deployment.git]
 cd containerized-sports-api
 ```
 ### **Create ECR Repo**
